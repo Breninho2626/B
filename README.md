@@ -19,8 +19,8 @@ operações:
 Exiba os resultados no console.
 
 Exercício 5: Crie uma variável chamada frase e atribua a ela uma frase em forma de string.
-Em seguida, exiba a frase no console
-.
+Em seguida, exiba a frase no console.
+
 Exercício 6: Crie uma variável chamada tamanhoFrase e atribua a ela o comprimento da
 frase do exercício anterior. Exiba o valor no console.
 
